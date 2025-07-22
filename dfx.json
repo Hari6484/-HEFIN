@@ -1,0 +1,21 @@
+{
+  "canisters": {
+    "decentralized_ai_app_frontend": {
+      "frontend": {
+        "entrypoint": "src/frontend/src/index.html"
+      },
+      "type": "assets",
+      "source": [
+        "src/frontend/assets",
+        "dist/frontend"
+      ]
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
