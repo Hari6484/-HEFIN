@@ -1,0 +1,20 @@
+{
+  "name": "decentralized-ai-app",
+  "version": "0.1.0",
+  "description": "A decentralized AI application powered by ICP.",
+  "scripts": {
+    "start": "dfx start --background && dfx deploy",
+    "deploy": "dfx deploy",
+    "build": "dfx build",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "decentralized-ai",
+    "icp",
+    "blockchain",
+    "react",
+    "dapp"
+  ],
+  "author": "Your Name/Organization",
+  "license": "MIT"
+}
