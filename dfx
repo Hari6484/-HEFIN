@@ -1,0 +1,20 @@
+my-decentralized-ai-app/
+├── .github/
+│   └── workflows/
+│       └── deploy.yml  (Optional: for CI/CD deployment)
+├── .gitignore
+├── README.md
+├── dfx.json              (ICP project configuration)
+├── src/
+│   ├── backend/          (Optional: if you have a Motoko/Rust backend canister)
+│   │   └── src/
+│   │       └── main.mo   (Example Motoko file)
+│   └── frontend/
+│       ├── assets/       (Static assets like images)
+│       ├── src/
+│       │   ├── App.js    (Your React application code)
+│       │   ├── index.css (Tailwind CSS setup or other global styles)
+│       │   └── index.html (Main HTML entry point)
+│       └── package.json  (Frontend dependencies)
+│       └── webpack.config.js (Frontend build configuration)
+└── package.json          (Root level dependencies, often for dfx commands)
