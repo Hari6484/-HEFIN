@@ -1,4 +1,5 @@
 # HEFIN: Decentralized AI for Healthcare & Finance
+https://github.com/Hari6484/-HEFIN/blob/5154dde3962b7e47acf6e0d5b947d6c6e42bd756/images/LOGO-removebg-preview.png
 
 ![HEFIN Banner]
 
